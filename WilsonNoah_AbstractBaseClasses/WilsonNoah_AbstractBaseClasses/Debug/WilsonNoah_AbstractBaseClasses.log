@@ -1,0 +1,9 @@
+﻿  Employee.cpp
+  WilsonNoah_AbstractBaseClasses.cpp
+C:\Users\noah\source\repos\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\noah\source\repos\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses.cpp(85,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\noah\source\repos\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses.cpp(124,47): warning C4018: '>': signed/unsigned mismatch
+C:\Users\noah\source\repos\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses.cpp(143,47): warning C4018: '>': signed/unsigned mismatch
+C:\Users\noah\source\repos\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses\WilsonNoah_AbstractBaseClasses.cpp(315,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  WilsonNoah_AbstractBaseClasses.vcxproj -> C:\Users\noah\source\repos\WilsonNoah_AbstractBaseClasses\Debug\WilsonNoah_AbstractBaseClasses.exe
